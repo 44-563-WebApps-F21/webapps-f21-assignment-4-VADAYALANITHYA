@@ -26,5 +26,27 @@
 }   
 
 .ASCANIO{
-    color:rgb(34, 158, 180);
+    color:rgb(180, 34, 66);
+}
+
+#tableStyle{
+    border-style: dashed;
+    border-color:rgb(21, 53, 196);
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+tr:nth-child(even) {background-color: rgb(179, 90, 27);}
+
+ .columnNrow{
+    border-style: double;
+    border-color: rgb(182, 164, 164);
+    padding: 15px;
+}
+
+h6:hover{
+    
+    text-shadow: 2px 2px rgb(207, 28, 207);
+    border-style: groove;
+    border-color: rgb(26, 27, 27);
 }
